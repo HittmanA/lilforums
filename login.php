@@ -1,5 +1,9 @@
 <?php
 
+header('Location: http://lil-coders.org/login.php');
+echo "Nice try, but we're not as dumb as you think";
+die;
+
 /**
  * Copyright (C) 2008-2012 FluxBB
  * based on code by Rickard Andersson copyright (C) 2002-2008 PunBB
