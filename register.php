@@ -1,5 +1,9 @@
 <?php
 
+header('Location: http://lil-coders.org/create_user.php');
+echo "Nice try, but we are not dumb.";
+die;
+
 /**
  * Copyright (C) 2008-2012 FluxBB
  * based on code by Rickard Andersson copyright (C) 2002-2008 PunBB
